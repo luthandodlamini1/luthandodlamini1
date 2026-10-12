@@ -24,9 +24,9 @@ I am a Mathematics educator transitioning into AI engineering. My background is 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- Learner Performance EDA — exploratory data analysis on a learner performance dataset; cleaning, profiling, and visualising the data to surface patterns and trends.
+- Learner Performance ML Model — building a machine learning model on the same dataset;  a classification and regression task predicting student outcomes
+
 
 ## 🌱 Currently Learning 
 
